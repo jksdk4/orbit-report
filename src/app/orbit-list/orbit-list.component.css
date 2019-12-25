@@ -4,11 +4,11 @@
 }
 
 .warning {
-    background-color: #da8a8a;
+    background-color: #da7e6e;
 }
 
 table {
-  color: #111;
+  color: rgb(0, 0, 0);
   border-radius: 5px;
   overflow: hidden;
   margin: 12px 0;
